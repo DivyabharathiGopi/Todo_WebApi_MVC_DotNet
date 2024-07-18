@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibqp3g+mxro=",
+  "success": true,
+  "projectFilePath": "/Users/di20528273/Desktop/CSarp/Todo/Todo.csproj",
+  "expectedPackageFiles": [
+    "/Users/di20528273/.nuget/packages/microsoft.data.sqlite/8.0.6/microsoft.data.sqlite.8.0.6.nupkg.sha512",
+    "/Users/di20528273/.nuget/packages/microsoft.data.sqlite.core/8.0.6/microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "/Users/di20528273/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/di20528273/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/Users/di20528273/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/di20528273/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/di20528273/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
